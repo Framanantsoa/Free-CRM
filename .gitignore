@@ -1,0 +1,15 @@
+﻿.vscode/
+.vs/
+
+Core/Application/bin/
+Core/Application/obj/
+
+Core/Domain/bin
+Core/Domain/obj
+
+Infrastucture/Infrastucture/bin
+Infrastucture/Infrastucture/obj
+
+Presentation/ASPNET/bin/
+Presentation/ASPNET/obj/
+
