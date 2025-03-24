@@ -9,225 +9,223 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASPNET
 build_property.RootNamespace = ASPNET
-build_property.ProjectDir = /apps/Free-CRM/ExistingApp/Presentation/ASPNET/
+build_property.ProjectDir = /home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 9.0
+build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /apps/Free-CRM/ExistingApp/Presentation/ASPNET
+build_property.MSBuildProjectDirectory = /home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 9.0
-build_property.EnableCodeStyleSeverity = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/EmailConfirm.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/EmailConfirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvRW1haWxDb25maXJtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/ForgotPassword.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvRm9yZ290UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/ForgotPasswordConfirmation.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvRm9yZ290UGFzc3dvcmRDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/Login.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/Logout.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/Register.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/_ViewStart.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Accounts/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQWNjb3VudHMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Budgets/BudgetList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Budgets/BudgetList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQnVkZ2V0cy9CdWRnZXRMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Campaigns/CampaignList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Campaigns/CampaignList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQ2FtcGFpZ25zL0NhbXBhaWduTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Companies/MyCompany.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Companies/MyCompany.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQ29tcGFuaWVzL015Q29tcGFueS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/CustomerCategories/CustomerCategoryList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/CustomerCategories/CustomerCategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQ3VzdG9tZXJDYXRlZ29yaWVzL0N1c3RvbWVyQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/CustomerContacts/CustomerContactList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/CustomerContacts/CustomerContactList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQ3VzdG9tZXJDb250YWN0cy9DdXN0b21lckNvbnRhY3RMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/CustomerGroups/CustomerGroupList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/CustomerGroups/CustomerGroupList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQ3VzdG9tZXJHcm91cHMvQ3VzdG9tZXJHcm91cExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Customers/CustomerList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Customers/CustomerList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvQ3VzdG9tZXJzL0N1c3RvbWVyTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Dashboards/DefaultDashboard.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Dashboards/DefaultDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvRGFzaGJvYXJkcy9EZWZhdWx0RGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Expenses/ExpenseList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Expenses/ExpenseList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvRXhwZW5zZXMvRXhwZW5zZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Index.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/LeadActivities/LeadActivityList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/LeadActivities/LeadActivityList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvTGVhZEFjdGl2aXRpZXMvTGVhZEFjdGl2aXR5TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/LeadContacts/LeadContactList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/LeadContacts/LeadContactList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvTGVhZENvbnRhY3RzL0xlYWRDb250YWN0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Leads/LeadList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Leads/LeadList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvTGVhZHMvTGVhZExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/NumberSequences/NumberSequenceList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/NumberSequences/NumberSequenceList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvTnVtYmVyU2VxdWVuY2VzL051bWJlclNlcXVlbmNlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/ProductGroups/ProductGroupList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/ProductGroups/ProductGroupList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUHJvZHVjdEdyb3Vwcy9Qcm9kdWN0R3JvdXBMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Products/ProductList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Products/ProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUHJvZHVjdHMvUHJvZHVjdExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Profiles/MyProfile.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Profiles/MyProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUHJvZmlsZXMvTXlQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/PurchaseOrders/PurchaseOrderList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/PurchaseOrders/PurchaseOrderList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUHVyY2hhc2VPcmRlcnMvUHVyY2hhc2VPcmRlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/PurchaseOrders/PurchaseOrderPdf.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/PurchaseOrders/PurchaseOrderPdf.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUHVyY2hhc2VPcmRlcnMvUHVyY2hhc2VPcmRlclBkZi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/PurchaseReports/PurchaseReportList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/PurchaseReports/PurchaseReportList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUHVyY2hhc2VSZXBvcnRzL1B1cmNoYXNlUmVwb3J0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Roles/RoleList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Roles/RoleList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvUm9sZXMvUm9sZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesOrders/SalesOrderList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesOrders/SalesOrderList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2FsZXNPcmRlcnMvU2FsZXNPcmRlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesOrders/SalesOrderPdf.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesOrders/SalesOrderPdf.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2FsZXNPcmRlcnMvU2FsZXNPcmRlclBkZi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesReports/SalesReportList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesReports/SalesReportList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2FsZXNSZXBvcnRzL1NhbGVzUmVwb3J0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesRepresentatives/SalesRepresentativeList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesRepresentatives/SalesRepresentativeList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2FsZXNSZXByZXNlbnRhdGl2ZXMvU2FsZXNSZXByZXNlbnRhdGl2ZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesTeams/SalesTeamList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/SalesTeams/SalesTeamList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2FsZXNUZWFtcy9TYWxlc1RlYW1MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/_Admin.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/_Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19BZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/_Auth.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/_Auth.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19BdXRoLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__css.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__css.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19fY3NzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__footer.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19fZm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__js.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__js.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19fanMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__navbar.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19fbmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__sidebar.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/AdminLTE/__sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL0FkbWluTFRFL19fc2lkZWJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/_Layout.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/__css.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Shared/__css.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvU2hhcmVkL19fY3NzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Taxs/TaxList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Taxs/TaxList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVGF4cy9UYXhMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/TodoItems/TodoItemList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/TodoItems/TodoItemList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVG9kb0l0ZW1zL1RvZG9JdGVtTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Todos/TodoList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Todos/TodoList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVG9kb3MvVG9kb0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/UnitMeasures/UnitMeasureList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/UnitMeasures/UnitMeasureList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVW5pdE1lYXN1cmVzL1VuaXRNZWFzdXJlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Users/UserList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Users/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVXNlcnMvVXNlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/VendorCategories/VendorCategoryList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/VendorCategories/VendorCategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVmVuZG9yQ2F0ZWdvcmllcy9WZW5kb3JDYXRlZ29yeUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/VendorContacts/VendorContactList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/VendorContacts/VendorContactList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVmVuZG9yQ29udGFjdHMvVmVuZG9yQ29udGFjdExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/VendorGroups/VendorGroupList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/VendorGroups/VendorGroupList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVmVuZG9yR3JvdXBzL1ZlbmRvckdyb3VwTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Vendors/VendorList.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/Vendors/VendorList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvVmVuZG9ycy9WZW5kb3JMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/_ViewImports.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/apps/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/_ViewStart.cshtml]
+[/home/fra/Proj/docker/dotnet9/Free-CRM/ExistingApp/Presentation/ASPNET/FrontEnd/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = RnJvbnRFbmQvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
